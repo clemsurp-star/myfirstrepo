@@ -1,0 +1,13 @@
+.paragraph {
+    font-size: 14px;
+    color: green;
+    font-family: 'Verdana', sans-serif;
+    font-weight: bold;
+}
+
+#id {
+    font-size: 12px;
+    color: blue;
+    font-family: 'Georgia', serif;
+    text-decoration: underline;
+}
